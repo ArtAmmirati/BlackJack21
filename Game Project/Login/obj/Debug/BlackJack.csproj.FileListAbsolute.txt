@@ -1,0 +1,12 @@
+C:\Users\PETCT Svcs of Fla\source\repos\Game Project\Login\bin\Debug\Login.exe.config
+C:\Users\PETCT Svcs of Fla\source\repos\Game Project\Login\bin\Debug\Login.exe
+C:\Users\PETCT Svcs of Fla\source\repos\Game Project\Login\bin\Debug\Login.pdb
+C:\Users\PETCT Svcs of Fla\source\repos\Game Project\Login\obj\Debug\BlackJack.csprojAssemblyReference.cache
+C:\Users\PETCT Svcs of Fla\source\repos\Game Project\Login\obj\Debug\Login.Form2.resources
+C:\Users\PETCT Svcs of Fla\source\repos\Game Project\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\PETCT Svcs of Fla\source\repos\Game Project\Login\obj\Debug\BlackJack.csproj.GenerateResource.cache
+C:\Users\PETCT Svcs of Fla\source\repos\Game Project\Login\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\PETCT Svcs of Fla\source\repos\Game Project\Login\obj\Debug\Login.exe
+C:\Users\PETCT Svcs of Fla\source\repos\Game Project\Login\obj\Debug\Login.pdb
+C:\Users\PETCT Svcs of Fla\source\repos\Game Project\Login\obj\Debug\Login.Login.resources
+C:\Users\PETCT Svcs of Fla\source\repos\Game Project\Login\obj\Debug\Login.Form3.resources

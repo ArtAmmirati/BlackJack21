@@ -1,0 +1,11 @@
+C:\Users\PETCT Svcs of Fla\source\repos\Game Project\Players List\bin\Debug\Players List.exe.config
+C:\Users\PETCT Svcs of Fla\source\repos\Game Project\Players List\bin\Debug\Players List.exe
+C:\Users\PETCT Svcs of Fla\source\repos\Game Project\Players List\bin\Debug\Players List.pdb
+C:\Users\PETCT Svcs of Fla\source\repos\Game Project\Players List\obj\Debug\Players List.csprojResolveAssemblyReference.cache
+C:\Users\PETCT Svcs of Fla\source\repos\Game Project\Players List\obj\Debug\Players_List.PlayerRegestration.resources
+C:\Users\PETCT Svcs of Fla\source\repos\Game Project\Players List\obj\Debug\Players_List.PlayerTable.resources
+C:\Users\PETCT Svcs of Fla\source\repos\Game Project\Players List\obj\Debug\Players_List.Properties.Resources.resources
+C:\Users\PETCT Svcs of Fla\source\repos\Game Project\Players List\obj\Debug\Players List.csproj.GenerateResource.cache
+C:\Users\PETCT Svcs of Fla\source\repos\Game Project\Players List\obj\Debug\Players List.csproj.CoreCompileInputs.cache
+C:\Users\PETCT Svcs of Fla\source\repos\Game Project\Players List\obj\Debug\Players List.exe
+C:\Users\PETCT Svcs of Fla\source\repos\Game Project\Players List\obj\Debug\Players List.pdb
