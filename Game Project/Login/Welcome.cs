@@ -11,20 +11,23 @@ using System.IO;
 
 namespace Login
 {
-    public partial class Form3 : Form
+    public partial class Welcome : Form
     {
-       
-       
-       
-        public Form3()
+        public Welcome()
         {
             InitializeComponent();
         }
-        public void Form3_load(object sender, EventArgs e)
+
+        public void button1_Click(object sender, EventArgs e)
         {
-           
+            Resgister RegPlayer;
+            RegPlayer = new Resgister();
+            RegPlayer.Show();
 
         }
+
+
+
+        
     }
-    
 }

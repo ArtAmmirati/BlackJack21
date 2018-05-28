@@ -11,23 +11,21 @@ using System.IO;
 
 namespace Login
 {
-    public partial class Login : Form
+    public partial class Game : Form
     {
-        public Login()
+       
+       
+       
+        public Game()
         {
             InitializeComponent();
         }
+        
 
-        public void button1_Click(object sender, EventArgs e)
+        public void Game_Load(object sender, EventArgs e)
         {
-            Form2 Players;
-            Players = new Form2();
-            Players.Show();
 
         }
-
-
-
-        
     }
+    
 }

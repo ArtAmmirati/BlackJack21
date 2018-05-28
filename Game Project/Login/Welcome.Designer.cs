@@ -1,6 +1,6 @@
 ﻿namespace Login
 {
-    partial class Login
+    partial class Welcome
     {
         /// <summary>
         /// Required designer variable.

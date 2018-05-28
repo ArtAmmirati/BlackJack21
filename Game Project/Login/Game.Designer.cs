@@ -1,6 +1,6 @@
 ﻿namespace Login
 {
-    partial class Form3
+    partial class Game
     {
         /// <summary>
         /// Required designer variable.
@@ -37,16 +37,16 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(146, 20);
             this.textBox1.TabIndex = 0;
-            
             // 
-            // Form3
+            // Game
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.textBox1);
-            this.Name = "Form3";
-            this.Text = "Form3";
+            this.Name = "Game";
+            this.Text = "GameBoard";
+            this.Load += new System.EventHandler(this.Game_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
