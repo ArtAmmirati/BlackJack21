@@ -54,31 +54,32 @@ namespace Login
 
         private void button1_Click(object sender, EventArgs e)
         {
+            try
+            {
+
+                if (comboBox1.SelectedItem.ToString() == "")
+                {
+                    MessageBox.Show("Please Click Returning Players Name " +
+                                    "or Add New Player Name");
+
+                    this.Close();
+                }
             
-
-            if (comboBox1.Text.ToString() == "" && textBox1.Text == "")
-            {
-                MessageBox.Show("Please Click Returning Players Name " +
-                                "or Add New Player Name");
-                this.Close();
-
-            }
-            else if (comboBox1.Text.ToString() == "" || textBox1.Text == "")
-            {
-                MessageBox.Show("Please Click Returning Players Name " +
-                                                "or Add New Player Name");
-                this.Close();
-            }
             else
             {
-                
-
                 Game BlackJack;
-                BlackJack = new Game();
+                BlackJack = new Game(comboBox1.SelectedItem.ToString());
                 BlackJack.ShowDialog();
-            }
+               
+                    // BlackJack.SetLabel1Text(comboBox1.SelectedItem.ToString());
+                }
 
-                
+            }
+            catch (NullReferenceException )
+            {
+                MessageBox.Show("Please Click Returning Players Name " +
+                                "or Add New Player Name"); 
+            }
         }
 
         public void button2_Click(object sender, EventArgs e)
@@ -95,14 +96,17 @@ namespace Login
 
                 else 
                 {
+                    string newPlayer = textBox1.Text;
+                    StreamWriter sw = new StreamWriter("PlayersList.csv", true);
+                    sw.WriteLine("{0},{1},{2}",newPlayer, DateTime.Now.Date,5000);
+                    sw.Close();
+
                     comboBox1.Items.Add(textBox1.Text.ToString());
                 
                     Game BlackJack;
-                    BlackJack = new Game();
+                    BlackJack = new Game(textBox1.Text);
                     BlackJack.ShowDialog();
-
                     
-
                 }
             }
            
@@ -113,6 +117,6 @@ namespace Login
             }
         }
 
-     
+       
     }
 }

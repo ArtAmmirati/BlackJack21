@@ -13,18 +13,19 @@ namespace Login
 {
     public partial class Game : Form
     {
+
+        
        
-       
-       
-        public Game()
+        public Game(string StrText)
         {
             InitializeComponent();
+            label1.Text = StrText;
         }
-        
+       
 
         public void Game_Load(object sender, EventArgs e)
         {
-
+            
         }
     }
     

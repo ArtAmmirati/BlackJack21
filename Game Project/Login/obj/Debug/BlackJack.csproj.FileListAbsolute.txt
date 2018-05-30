@@ -22,3 +22,15 @@ C:\Users\aammi\Desktop\BlackJack21\Game Project\Login\obj\Debug\Login.Resgister.
 C:\Users\aammi\Desktop\BlackJack21\Game Project\Login\obj\Debug\Login.Game.resources
 C:\Users\aammi\Desktop\BlackJack21\Game Project\Login\obj\Debug\Login.Welcome.resources
 C:\Users\aammi\Desktop\BlackJack21\Game Project\Login\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\BlackJack21\Game Project\Login\bin\Debug\Login.exe.config
+C:\Users\Cyberadmin\Desktop\BlackJack21\Game Project\Login\bin\Debug\Login.exe
+C:\Users\Cyberadmin\Desktop\BlackJack21\Game Project\Login\bin\Debug\Login.pdb
+C:\Users\Cyberadmin\Desktop\BlackJack21\Game Project\Login\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\BlackJack21\Game Project\Login\obj\Debug\Login.Game.resources
+C:\Users\Cyberadmin\Desktop\BlackJack21\Game Project\Login\obj\Debug\Login.Welcome.resources
+C:\Users\Cyberadmin\Desktop\BlackJack21\Game Project\Login\obj\Debug\Login.Resgister.resources
+C:\Users\Cyberadmin\Desktop\BlackJack21\Game Project\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\BlackJack21\Game Project\Login\obj\Debug\BlackJack.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\BlackJack21\Game Project\Login\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\BlackJack21\Game Project\Login\obj\Debug\Login.exe
+C:\Users\Cyberadmin\Desktop\BlackJack21\Game Project\Login\obj\Debug\Login.pdb
