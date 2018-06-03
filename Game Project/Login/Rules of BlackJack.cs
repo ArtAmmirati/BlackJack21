@@ -20,7 +20,17 @@ namespace Login
 
         private void Rules_of_BlackJack_Load(object sender, EventArgs e)
         {
-            
+           try
+            {
+                TextReader reader = new StreamReader("Guide2BlackJack.txt");
+                richTextBox1.Text = reader.ReadToEnd();
+                reader.Close();
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }  
         }
 
         private void richTextBox1_TextChanged(object sender, EventArgs e)
