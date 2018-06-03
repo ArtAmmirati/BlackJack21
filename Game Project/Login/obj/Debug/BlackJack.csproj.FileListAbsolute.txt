@@ -34,3 +34,4 @@ C:\Users\Cyberadmin\Desktop\BlackJack21\Game Project\Login\obj\Debug\BlackJack.c
 C:\Users\Cyberadmin\Desktop\BlackJack21\Game Project\Login\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
 C:\Users\Cyberadmin\Desktop\BlackJack21\Game Project\Login\obj\Debug\Login.exe
 C:\Users\Cyberadmin\Desktop\BlackJack21\Game Project\Login\obj\Debug\Login.pdb
+C:\Users\aammi\Desktop\BlackJack21\Game Project\Login\obj\Debug\Login.Rules_of_BlackJack.resources

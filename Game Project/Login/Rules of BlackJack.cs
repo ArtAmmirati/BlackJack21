@@ -10,24 +10,22 @@ using System.Windows.Forms;
 using System.IO;
 
 namespace Login
-{ 
-    public partial class Welcome : Form
+{
+    public partial class Rules_of_BlackJack : Form
     {
-        public Welcome()
+        public Rules_of_BlackJack()
         {
             InitializeComponent();
         }
 
-        public void button1_Click(object sender, EventArgs e)
+        private void Rules_of_BlackJack_Load(object sender, EventArgs e)
         {
-            Resgister RegPlayer;
-            RegPlayer = new Resgister();
-            RegPlayer.Show();
-
+            
         }
 
-
-
-        
+        private void richTextBox1_TextChanged(object sender, EventArgs e)
+        {
+           
+        }
     }
 }

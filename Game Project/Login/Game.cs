@@ -27,6 +27,19 @@ namespace Login
         {
             
         }
+
+       
+
+        private void exitToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void rulesOfBlackJackToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Rules_of_BlackJack rules = new Rules_of_BlackJack();
+            rules.ShowDialog();
+        }
     }
     
 }
